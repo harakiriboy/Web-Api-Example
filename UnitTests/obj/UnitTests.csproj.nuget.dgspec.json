@@ -4,12 +4,12 @@
     "C:\\Users\\HP\\source\\repos\\Test\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Test\\Test\\Test.csproj": {
+    "C:\\Users\\HP\\source\\repos\\Test\\Test\\WebApiTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Test\\Test\\Test.csproj",
-        "projectName": "Test",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Test\\Test\\WebApiTest.csproj",
+        "projectName": "WebApiTest",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\WebApiTest.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\obj\\",
         "projectStyle": "PackageReference",
@@ -143,8 +143,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\Test\\Test\\Test.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\Test.csproj"
+              "C:\\Users\\HP\\source\\repos\\Test\\Test\\WebApiTest.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\WebApiTest.csproj"
               }
             }
           }

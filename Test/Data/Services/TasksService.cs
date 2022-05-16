@@ -19,7 +19,7 @@ namespace Test.Data.Services
         {
             var _task = new ProjectTask()
             {
-                Name = task.Name,
+                Name = task.Name,                           // here added som enew comments to the project
                 Description = task.Description,
                 TaskStatus = Enums.TaskStatus.ToDo,
                 TaskPriority = task.TaskPriority,

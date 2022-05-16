@@ -1916,7 +1916,7 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Test/1.0.0": {
+      "WebApiTest/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -1931,10 +1931,10 @@
           "Swashbuckle.AspNetCore": "5.6.3"
         },
         "compile": {
-          "bin/placeholder/Test.dll": {}
+          "bin/placeholder/WebApiTest.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Test.dll": {}
+          "bin/placeholder/WebApiTest.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -7196,10 +7196,10 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Test/1.0.0": {
+    "WebApiTest/1.0.0": {
       "type": "project",
-      "path": "../Test/Test.csproj",
-      "msbuildProject": "../Test/Test.csproj"
+      "path": "../Test/WebApiTest.csproj",
+      "msbuildProject": "../Test/WebApiTest.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7210,7 +7210,7 @@
       "NUnit.ConsoleRunner >= 3.15.0",
       "NUnit.Extension.NUnitProjectLoader >= 3.7.1",
       "NUnit3TestAdapter >= 4.2.1",
-      "Test >= 1.0.0"
+      "WebApiTest >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7249,8 +7249,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\HP\\source\\repos\\Test\\Test\\Test.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\Test.csproj"
+            "C:\\Users\\HP\\source\\repos\\Test\\Test\\WebApiTest.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\WebApiTest.csproj"
             }
           }
         }

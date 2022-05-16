@@ -7291,9 +7291,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Test\\Test\\Test.csproj",
-      "projectName": "Test",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Test\\Test\\WebApiTest.csproj",
+      "projectName": "WebApiTest",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\WebApiTest.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\source\\repos\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
